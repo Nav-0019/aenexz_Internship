@@ -168,7 +168,6 @@ aenexz_Internship/
 ├── diabetes_progression_prediction.ipynb  # Assignment 3: End-to-end ML regression notebook
 │
 ├── run_diabetes_pipeline.py               # Standalone automated ML execution pipeline
-├── create_notebook.py                     # Script to generate formatted analysis notebook
 │
 ├── scripts/
 │   └── update_readme.py                   # Dynamic script to update progress in README
